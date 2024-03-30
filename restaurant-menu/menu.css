@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: orange;
+    color: darkblue;
+    text-align: center;
+    padding: 10px;
+}
+
+
+.category {
+    margin-bottom: 35px;
+}
+
+.category h2 {
+    background-color: yellow;
+    color: black;
+    padding: 10px;
+    margin: 0;
+    
+}
+
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    padding: 10px;
+}
+
+li .price {
+    position: absolute;
+    right: 10px;
+}
+
+
+
